@@ -1,0 +1,78 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.head-container {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.board-container {
+    text-align: center;
+    margin: 10px auto;
+}
+
+.mainPage-image {
+    width: 600px;
+    height: 600px;
+}
+
+.table-container {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.table-container td {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.table-container td img{
+    width: 150px;
+    height: 150px;
+}
+
+.remain-time-text {
+    color: red;
+}
+
+.remain-Baeks-text {
+    color: red;
+}
+
+.seccess-image {
+    width: 600px;
+    height: 600px;
+}
+
+.fail-image {
+    width: 600px;
+    height: 600px;
+}
+
+button {
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    cursor: pointer;
+}
+
+button :hover {
+    color: black;
+    background-color: white;
+}
+
+.hidden {
+    display: none;
+}
